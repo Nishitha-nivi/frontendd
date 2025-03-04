@@ -50,3 +50,9 @@ Comment model for recipe discussions
 3.Filtering and sorting of recipes
 4,Relationship management between users, recipes, and comments
 The application is now running in development mode. You can explore the different pages and features. In a production environment, you would need to set up a MongoDB database and configure the environment variables properly.
+
+
+![Screenshot 2025-03-04 225032](https://github.com/user-attachments/assets/367b4825-3a4a-494f-81ab-894b9b6c4c7a)
+
+![image](https://github.com/user-attachments/assets/9b45a874-fca7-4ae4-ba97-03eb537980ba)
+
