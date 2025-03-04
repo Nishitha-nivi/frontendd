@@ -2,6 +2,8 @@
 I've created a comprehensive Recipe Sharing Platform using React and Express.js. The application includes the following features:
 
 Frontend (React)
+
+
 **User Interface**
 
 Modern, responsive design with Tailwind CSS
@@ -22,6 +24,8 @@ Recipe browsing with filter and search capabilities
 Recipe creation with image upload
 Comments and likes on recipes
 User profiles with recipe management
+
+
 **Backend (Express.js)
 API Endpoints**
 
@@ -29,11 +33,16 @@ Authentication (register, login, logout, get current user)
 Recipe CRUD operations
 Comments and likes functionality
 User profile and recipe management
+
+
+
 **Database Models**
 
 User model for authentication
 Recipe model with detailed fields
 Comment model for recipe discussions
+
+
 **Features**
 
 1.JWT authentication with secure cookies
